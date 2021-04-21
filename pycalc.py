@@ -11,7 +11,6 @@ from PyQt5.QtWidgets import QLineEdit
 from PyQt5.QtWidgets import QPushButton
 from PyQt5.QtWidgets import QVBoxLayout
 
-
 __version__ = '0.1'
 __author__ = 'luct94'
 
