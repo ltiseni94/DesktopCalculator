@@ -1,0 +1,6 @@
+Needed Package:
+
+- PyQt5
+- PyQt5-Qt
+- PyQt5-Qt5
+- PyQt5-sip
