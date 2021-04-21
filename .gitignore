@@ -8,5 +8,4 @@ signals_slots.py
 v_layout.py
 pycalc.spec
 build/
-dist/
 __pycache__/
