@@ -6,3 +6,6 @@ hello.py
 main_window.py
 signals_slots.py
 v_layout.py
+pycalc.spec
+build/
+dist/
