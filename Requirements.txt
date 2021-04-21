@@ -1,5 +1,6 @@
-Needed Package:
+Python Version: 3.9
 
+Needed Packages:
 - PyQt5
 - PyQt5-Qt
 - PyQt5-Qt5
